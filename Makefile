@@ -1,5 +1,5 @@
 SRC=sigattach.c
-SO=sigattach.so
+SO=libsigattach.so
 
 all: $(SO)
 
